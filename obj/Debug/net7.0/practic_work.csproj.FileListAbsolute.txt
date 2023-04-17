@@ -1,0 +1,15 @@
+C:\Users\skybl\OneDrive\Рабочий стол\practic_work\practic_work\bin\Debug\net7.0\practic_work.exe
+C:\Users\skybl\OneDrive\Рабочий стол\practic_work\practic_work\bin\Debug\net7.0\practic_work.deps.json
+C:\Users\skybl\OneDrive\Рабочий стол\practic_work\practic_work\bin\Debug\net7.0\practic_work.runtimeconfig.json
+C:\Users\skybl\OneDrive\Рабочий стол\practic_work\practic_work\bin\Debug\net7.0\practic_work.dll
+C:\Users\skybl\OneDrive\Рабочий стол\practic_work\practic_work\bin\Debug\net7.0\practic_work.pdb
+C:\Users\skybl\OneDrive\Рабочий стол\practic_work\practic_work\obj\Debug\net7.0\practic_work.csproj.AssemblyReference.cache
+C:\Users\skybl\OneDrive\Рабочий стол\practic_work\practic_work\obj\Debug\net7.0\practic_work.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skybl\OneDrive\Рабочий стол\practic_work\practic_work\obj\Debug\net7.0\practic_work.AssemblyInfoInputs.cache
+C:\Users\skybl\OneDrive\Рабочий стол\practic_work\practic_work\obj\Debug\net7.0\practic_work.AssemblyInfo.cs
+C:\Users\skybl\OneDrive\Рабочий стол\practic_work\practic_work\obj\Debug\net7.0\practic_work.csproj.CoreCompileInputs.cache
+C:\Users\skybl\OneDrive\Рабочий стол\practic_work\practic_work\obj\Debug\net7.0\practic_work.dll
+C:\Users\skybl\OneDrive\Рабочий стол\practic_work\practic_work\obj\Debug\net7.0\refint\practic_work.dll
+C:\Users\skybl\OneDrive\Рабочий стол\practic_work\practic_work\obj\Debug\net7.0\practic_work.pdb
+C:\Users\skybl\OneDrive\Рабочий стол\practic_work\practic_work\obj\Debug\net7.0\practic_work.genruntimeconfig.cache
+C:\Users\skybl\OneDrive\Рабочий стол\practic_work\practic_work\obj\Debug\net7.0\ref\practic_work.dll
